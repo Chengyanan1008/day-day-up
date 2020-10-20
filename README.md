@@ -1,14 +1,5 @@
 收集整理各种学习资料
 目录
- ## [bigdata](https://github.com/Chengyanan1008/day-day-up/tree/main/bigdata) --> 大数据资料
- ### [OLAP](https://github.com/Chengyanan1008/day-day-up/tree/main/bigdata/OLAP) -->在线联机分析
- ### [flink](https://github.com/Chengyanan1008/day-day-up/tree/main/bigdata/flink) -->流式数据处理引擎Flink
- 
- ## [Linux](https://github.com/Chengyanan1008/day-day-up/tree/main/Linux) --> Linux 资料 
-
-
-
-Table of Contents
 =================
 
 * [<a href="https://github\.com/Chengyanan1008/day\-day\-up/tree/main/bigdata">bigdata</a> \-\-&gt; 大数据资料](#bigdata----%E5%A4%A7%E6%95%B0%E6%8D%AE%E8%B5%84%E6%96%99)
