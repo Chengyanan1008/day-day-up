@@ -14,5 +14,5 @@
   
 * [中间件](https://github.com/Chengyanan1008/day-day-up/tree/main/%E4%B8%AD%E9%97%B4%E4%BB%B6)
 * [编程语言](https://github.com/Chengyanan1008/day-day-up/tree/main/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80)
-  * [C-C++-(8个中文手册）(全)](https://github.com/Chengyanan1008/day-day-up/tree/main/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/C-C%2B%2B-(8%E4%B8%AA%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C%EF%BC%89(%E5%85%A8))
+  * [C++中文手册](https://github.com/Chengyanan1008/day-day-up/tree/main/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/C-C%2B%2B-(8%E4%B8%AA%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C%EF%BC%89(%E5%85%A8))
 * [面试资料](https://github.com/Chengyanan1008/day-day-up/tree/main/%E9%9D%A2%E8%AF%95)
