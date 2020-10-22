@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ETL/ETL.iml" filepath="$PROJECT_DIR$/ETL/ETL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Report/Report.iml" filepath="$PROJECT_DIR$/Report/Report.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kkbPro.iml" filepath="$PROJECT_DIR$/kkbPro.iml" />
+    </modules>
+  </component>
+</project>
